@@ -1,0 +1,24 @@
+.game-box {
+background: blue;
+margin:0 auto;
+}
+
+.trivia-title {
+ color: red;
+}
+
+.question {
+margin:0 auto;
+}
+
+.answers {
+
+}
+
+#button {
+	margin:0 auto;
+}
+
+body {
+	background: yellow;
+}
